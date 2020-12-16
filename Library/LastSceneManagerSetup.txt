@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/HCI_vuforia.unity
+  isLoaded: 1
+  isActive: 1
